@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test1.kicad_pro",
+    "filename": "Butterworth_Filter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -603,7 +603,7 @@
         "version": 0
       },
       "model_mode": 4,
-      "workbook_filename": "test1.wbk"
+      "workbook_filename": "Butterworth_Filter.wbk"
     },
     "page_layout_descr_file": "empty.kicad_wks",
     "plot_directory": "",
